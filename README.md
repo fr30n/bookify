@@ -13,4 +13,52 @@ Bookify is a simple yet powerful automated `booking` specialist, working 24/7 to
 
 
 
+Fr3on is a software agency based in Cairo, Egypt. You'll find an overview of all our open source projects [on our website](https://fr30n.com).
 
+## Installation
+
+You can install the package via composer:
+
+``` bash
+composer require fr30n/bookify
+```
+
+## Usage
+
+The package should only be used through the `Bookify` class.
+
+
+## Changelog
+
+Please see [CHANGELOG](CHANGELOG.md) for more information about what has changed recently.
+
+## Testing
+
+``` bash
+$ composer test
+```
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## Security
+
+If you discover any security related issues, please email hello@fr30n.com instead of using the issue tracker.
+
+
+## Credits
+
+- [Sebastian De Deyne](https://github.com/sebastiandedeyne)
+- [All Contributors](../../contributors)
+
+## Support us
+
+Fr3on is a software agency based in Cairo, Egypt. You'll find an overview of all our open source projects [on our website](https://fr30n.com).
+
+Does your business depend on our contributions? Reach out and support us on [Patreon](https://www.patreon.com/fr30n). 
+All pledges will be dedicated to allocating workforce on maintenance and new awesome stuff.
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
