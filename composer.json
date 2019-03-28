@@ -1,0 +1,54 @@
+{
+    "name": "fr30n/bookify",
+    "description": "Bookify is an Enterprise-Level Appointment Booking Plugin, allowing to manage multiple services, employees, customers, business locations, analyze business performance, and accept online payments through PayPal and Stripe. Built by an award-winning team of UX/UI designers and developers.",
+    "keywords": [
+    	"bookify",
+        "services",
+        "employees",
+        "schedule",
+        "opening",
+        "hours",
+        "business",
+        "locations",
+        "payments",
+        "paypal",
+        "booking",
+        "analyze",
+        "stripe",
+        "fr30n",
+        "fr3on",
+    ],
+    "homepage": "https://github.com/fr30n/bookify",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmed Mordy",
+            "email": "hello@fr30n.com",
+            "homepage": "https://fr30n.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "kylekatarnls/multi-tester": "^1.1",
+        "phpunit/phpunit": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fr30n\\Bookify\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Fr30n\\Bookify\\Test\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
