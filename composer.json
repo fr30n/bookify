@@ -1,6 +1,6 @@
 {
     "name": "fr30n/bookify",
-    "description": "Bookify is an Enterprise-Level Appointment Booking Plugin, allowing to manage multiple services, employees, customers, business locations, analyze business performance, and accept online payments through PayPal and Stripe. Built by an award-winning team of UX/UI designers and developers.",
+    "description": "Bookify is an Enterprise-Level Appointment Booking Plugin, allowing to manage multiple services, employees, customers, business locations, analyze business performance, and accept online payments through PayPal and Stripe.",
     "keywords": [
     	"bookify",
         "services",
@@ -16,7 +16,7 @@
         "analyze",
         "stripe",
         "fr30n",
-        "fr3on",
+        "fr3on"
     ],
     "homepage": "https://github.com/fr30n/bookify",
     "license": "MIT",
