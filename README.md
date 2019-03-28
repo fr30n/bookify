@@ -49,7 +49,7 @@ If you discover any security related issues, please email hello@fr30n.com instea
 
 ## Credits
 
-- [Sebastian De Deyne](https://github.com/sebastiandedeyne)
+- [Ahmed Mordy](https://github.com/fr30n)
 - [All Contributors](../../contributors)
 
 ## Support us
